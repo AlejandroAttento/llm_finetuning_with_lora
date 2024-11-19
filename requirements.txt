@@ -1,0 +1,9 @@
+datasets
+transformers
+peft
+evaluate
+torch
+numpy
+scikit-learn
+plotly
+nbformat
